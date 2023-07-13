@@ -27,9 +27,9 @@
 ----
 <h2>✨ Challenges Faced:  </h2>
 
-1. A major challenge encountered in this project was working with a real-world dataset, as prior experience was limited in this domain. Real-world datasets differ from synthetic ones typically used for learning, requiring adaptation to the complexity, size, and noise inherent in the data.
+* A major challenge encountered in this project was working with a real-world dataset, as prior experience was limited in this domain. Real-world datasets differ from synthetic ones typically used for learning, requiring adaptation to the complexity, size, and noise inherent in the data.
 
-2. Another challenge faced during the project was the quality and organization of the dataset. The dataset contained a considerable number of missing records, which required careful handling to ensure data completeness. Additionally, the variables in the dataset were not consistently organized, resulting in a messy structure. This lack of uniformity made it difficult to perform meaningful analysis and build a machine-learning model directly.
+* Another challenge faced during the project was the quality and organization of the dataset. The dataset contained a considerable number of missing records, which required careful handling to ensure data completeness. Additionally, the variables in the dataset were not consistently organized, resulting in a messy structure. This lack of uniformity made it difficult to perform meaningful analysis and build a machine-learning model directly.
 
 ---
 
@@ -42,10 +42,10 @@
 5. <b>`Numerical data preprocessing:`</b> Various data preprocessing techniques were applied to the numerical dataframe, including handling measurement unit inconsistencies and transforming attributes to a uniform scale for improved modeling.
 6. <b>`Exploratory Data Analysis (EDA):`</b> EDA was performed to identify trends, patterns, and relationships between independent variables and the target variable.
 7. <b>` Feature selection`</b>: Statistical techniques such as ANOVA, correlation analysis, and chi-square tests were employed to select key features significantly influencing the car price.
-8. <b>` Model building:`</b> Multiple algorithms including regression, decision trees, and ensemble techniques were utilized to build predictive models.
-9. <b>` Model evaluation:`</b> Model performance was evaluated using various metrics, and the predicted versus actual values were visualized using residual plots.
-10. <b>` Model comparison and stacking:`</b> The performance of different models was compared, and a stacked model was created using the top-performing models.
-11. <b>` Robust model creation:`</b> A robust model with high accuracy and minimal errors was developed to predict car prices successfully.
+8. <b>` Model building:`</b> Multiple algorithms were used to build predictive models, including regression, decision trees, and ensemble techniques.
+9. <b>` Model evaluation:`</b> Model performance was assessed using metrics and visualized with residual plots.
+10. <b>` Model comparison and stacking:`</b> Different models were compared, and a stacked model was created using the top performers.
+11. <b>` Robust model creation:`</b> A robust, accurate model was developed for successful car price prediction.
 
 
 ----
@@ -94,5 +94,8 @@ Contributions are welcome! If you have any suggestions, bug fixes, or feature ad
 
 For any questions or inquiries, please contact [kumod.aws@gmail.com](mailto:kumod.aws@gmail.com) or you can contact me on [LinkedIn](https://www.linkedin.com/in/kumod-sharma/).
 
+---
+
 <h2>😊 Thank You</h2>
+
 <p>Thank you for checking out my repository! I hope you find the projects and code provided helpful and informative. If you have any questions or suggestions, please feel free to reach out.😊</p>
