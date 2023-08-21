@@ -9,8 +9,6 @@
 <h2>📝 Description:</h2>
 
 
-
-
 <b>`Goal:`</b> The goal of this project is to develop a machine learning model that accurately predicts the ex-showroom price of a car based on various relevant features.
 
 <b>` Purpose:`</b> The main purpose of this project is to provide valuable insights into businesses, enabling car buyers and sellers to make informed decisions and optimize their strategies in the competitive automotive industry by analyzing a raw dataset having 140 car attributes.
