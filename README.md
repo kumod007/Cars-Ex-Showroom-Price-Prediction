@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨ Predicting Car's Ex-Showroom Price ✨ 
+# ✨ Predicting Car's Ex-Showroom Price ✨  
 </div>
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1200/0*Y7SWB-YvdAfsAUYZ.png" alt="Image Description" width="1000" height="400">
